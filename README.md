@@ -7,9 +7,9 @@
 </p>
 
 
-<a href=https://dayeonki.github.io/>Dayeon Ki</a><sup>1</sup>, <a href=https://tianyizhou.github.io/>Tianyi Zhou</a><sup>2</sup>, <a href=https://www.cs.umd.edu/~marine/>Marine Carpuat<a><sup>1</sup>, <a href=https://research.adobe.com/person/gangwu/>Gang Wu</a><sup>3</sup>, <a href=https://themadaiguy.github.io/>Puneet Mathur</a><sup>3</sup>, <a href=https://research.adobe.com/person/vishy-swaminathan/>Viswanathan Swaminathan</a><sup>3</sup>
+<a href=https://dayeonki.github.io/>Dayeon Ki</a><sup>1</sup>, <a href=https://tianyizhou.github.io/>Tianyi Zhou</a><sup>1</sup>, <a href=https://www.cs.umd.edu/~marine/>Marine Carpuat<a><sup>1</sup>, <a href=https://research.adobe.com/person/gangwu/>Gang Wu</a><sup>2</sup>, <a href=https://themadaiguy.github.io/>Puneet Mathur</a><sup>2</sup>, <a href=https://research.adobe.com/person/vishy-swaminathan/>Viswanathan Swaminathan</a><sup>2</sup>
 <br>
-<sup>1</sup>University of Maryland, <sup>2</sup>MBUZAI, <sup>3</sup>Adobe Research
+<sup>1</sup>University of Maryland, <sup>2</sup>Adobe Research
 <br>
 
 This repository contains the code and dataset for our paper <br> **GraphicWeaver: Benchmarking Agentic Planning for Graphic Design Generation**.
